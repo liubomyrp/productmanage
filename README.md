@@ -63,10 +63,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  # Core 1: Product Management
  ### What is Product Management
- - [ ] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
- - [ ] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
- - [ ] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
- - [ ] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
+ - [✓] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+ - [✓] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
+ - [✓] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
+ - [✓] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
  - [ ] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
  - [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
  - [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
@@ -155,7 +155,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
 
  ### User Experience
- - [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
+ - [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
  - [ ] [User Experience Debt](https://blog.polkadotlabs.com/user-experience-debt-c9bd265d521b#.v3v86d9p7) - Vijay Sundaram
 
  ### How to work with Designers
@@ -251,7 +251,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
 
  ### Mockups and Marketing
- - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 
+ - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on
 wireframes, mockups, diagrams and prototypes.
  - [ ] [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - Generate surveys in seconds.
  - [ ] [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - Rapid wireframing tool.
@@ -348,11 +348,11 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
  - [ ] [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
  - [ ] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
- 
+
  ### Newsletters
- - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
+ - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content
  - [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship
- 
+
  ### Podcasts
  - [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
  - [ ] [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - What factors can predict a company's future success
@@ -364,7 +364,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more
  - [ ] [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
  - [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
- - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
+ - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators.
 
  ### Courses
  - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
@@ -482,10 +482,10 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
  - [ ] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
  - [ ] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
- 
+
   ### Career Prep: Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
-  
+
 
  ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
