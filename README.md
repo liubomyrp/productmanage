@@ -67,10 +67,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
  - [x] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
  - [x] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
- - [ ] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
- - [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
- - [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
- - [ ] [Does the world need Product Managers any more](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
+ - [x] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
+ - [x] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+ - [x] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+ - [x] [Does the world need Product Managers any more](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
  - [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
  - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
