@@ -92,8 +92,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
  - [x] [The 4 ways to break into Product Management](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
  - [x] [12 things Product Managers should do in their first 30 Days at a new company](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company) - Kenneth Norton
- - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
- - [ ] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+ - [x] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+ - [x] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
 
  ### Building Great Products
  - [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
