@@ -85,13 +85,13 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
 
  ### Becoming a Product Guru
- - [ ] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
- - [ ] [How I became a PM ](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
- - [ ] [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
- - [ ] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
- - [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
- - [ ] [The 4 ways to break into Product Management](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
- - [ ] [12 things Product Managers should do in their first 30 Days at a new company](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company) - Kenneth Norton
+ - [x] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
+ - [x] [How I became a PM ](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
+ - [x] [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
+ - [x] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
+ - [x] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
+ - [x] [The 4 ways to break into Product Management](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
+ - [x] [12 things Product Managers should do in their first 30 Days at a new company](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company) - Kenneth Norton
  - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [ ] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
 
